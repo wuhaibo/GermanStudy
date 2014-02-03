@@ -1,0 +1,60 @@
+﻿<UserControl x:Class="GermanLearningModule.Views.TestWordListView"           
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"            
+             xmlns:util="clr-namespace:GermanLearningModule.Util"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="600"
+             >
+    
+    <Grid Background="White" Name ="TestUnit">
+        <Grid.Resources>
+            <ResourceDictionary>
+                <ResourceDictionary.MergedDictionaries>
+                    <ResourceDictionary Source="/GermanLearningModule;component/Theme/StyleDic.xaml"></ResourceDictionary>
+                </ResourceDictionary.MergedDictionaries>
+            </ResourceDictionary>
+        </Grid.Resources>
+        <TextBlock HorizontalAlignment="Left" Height="50" Margin="55,26,0,0" TextWrapping="Wrap" Text="{Binding Path=TestItem.Question}" VerticalAlignment="Top" Width="497"  FontSize="32"/>
+
+        <ListBox  Name="lstBoxAnswers"  HorizontalAlignment="Left" Height="183" Margin="55,105,0,0" VerticalAlignment="Top" Width="276" BorderThickness="0">
+  
+                <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Height="50">
+                        <RadioButton GroupName="Answers" Content="{Binding Path=.}" 
+                                     Command="{Binding DataContext.GoNextQuestionCommand,RelativeSource={RelativeSource AncestorType={x:Type ListBox}}}"
+                                     CommandParameter="{Binding RelativeSource={RelativeSource Self}}"                                     
+                                     Margin="10" FontSize="15" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+
+        <Button  Command="{Binding Path=GoNextQuestionNoAnswerCheckCommand}" 
+                 Visibility="{Binding Path=ShowGoNextBtn}"
+                 Style="{StaticResource HB_ButtonStyle}" 
+                 Content="Next" HorizontalAlignment="Left" Height="33" Margin="468,288,0,0" VerticalAlignment="Top" Width="84" />
+
+        <Button  Command ="{Binding Path=Navi2NextUnitCommand}"
+                 Visibility= "{Binding Path=ShowGoNextUnitBtn}"
+                 Style="{StaticResource HB_ButtonStyle}" Content="Next Unit" HorizontalAlignment="Left" Height="33" Margin="354,288,0,0" VerticalAlignment="Top" Width="84" />
+        <ListBox  x:Name="lstBoxAnswersJudge"  HorizontalAlignment="Left" Height="183" Margin="354,105,0,0" VerticalAlignment="Top" Width="158" BorderThickness="0">
+            <ListBox.Resources>
+                <util:ImagePathConverter x:Key="ImagePathConverter" />
+            </ListBox.Resources>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Height="50">
+                        <Image Margin="5" Height="50" Source="{Binding Path=., Converter={StaticResource ImagePathConverter}}"
+                               Stretch="Fill">                            
+                        </Image>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+    </Grid>
+</UserControl>

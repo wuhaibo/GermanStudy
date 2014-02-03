@@ -1,0 +1,96 @@
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\GermanLearning.csprojResolveAssemblyReference.cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\MyWordListView.baml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\NaviMyWordListView.baml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\NaviScoreListView.baml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\NaviStudyGermanView.baml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\ScoreListView.baml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\StudyGermanView.baml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\MyWordListView.g.cs
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\NaviMyWordListView.g.cs
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\NaviScoreListView.g.cs
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\NaviStudyGermanView.g.cs
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\ScoreListView.g.cs
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\StudyGermanView.g.cs
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\GermanLearningModule_MarkupCompile.cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\GermanLearningModule.g.resources
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\GermanLearningModule.Properties.Resources.resources
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\GermanLearning.csproj.GenerateResource.Cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\GermanLearningModule.dll.config
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\GermanLearningModule.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\GermanLearningModule.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\DataAccess.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\EntityFramework.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\PrismApplication.Infrastructure.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\System.Windows.Interactivity.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\DataAccess.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\PrismApplication.Infrastructure.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\EntityFramework.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\System.Windows.Interactivity.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\GermanLearningModule.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\Modules\GermanLearning\obj\Debug\GermanLearningModule.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\GermanLearningModule.dll.config
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\GermanLearningModule.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\GermanLearningModule.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\DataAccess.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\EntityFramework.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\PrismApplication.Infrastructure.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\System.Windows.Interactivity.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\DataAccess.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\PrismApplication.Infrastructure.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\EntityFramework.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\System.Windows.Interactivity.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\GermanLearning.csprojResolveAssemblyReference.cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\MyWordListView.baml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\NaviMyWordListView.baml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\NaviScoreListView.baml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\NaviStudyGermanView.baml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\ScoreListView.baml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\StudyGermanView.baml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\TestWordListView.baml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\MyWordListView.g.cs
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\NaviMyWordListView.g.cs
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\NaviScoreListView.g.cs
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\NaviStudyGermanView.g.cs
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\ScoreListView.g.cs
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\StudyGermanView.g.cs
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\Views\TestWordListView.g.cs
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\GermanLearningModule_MarkupCompile.cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\GermanLearningModule.g.resources
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\GermanLearningModule.Properties.Resources.resources
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\GermanLearning.csproj.GenerateResource.Cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\GermanLearningModule.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\Modules\GermanLearning\obj\Debug\GermanLearningModule.pdb

@@ -1,0 +1,12 @@
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.Infrastructure\bin\Debug\GermanVocabulary.Infrastructure.dll.config
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.Infrastructure\bin\Debug\GermanVocabulary.Infrastructure.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.Infrastructure\bin\Debug\GermanVocabulary.Infrastructure.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.Infrastructure\bin\Debug\EntityFramework.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.Infrastructure\bin\Debug\EntityFramework.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.Infrastructure\obj\Debug\GermanVocabulary.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.Infrastructure\obj\Debug\GermanVocabulary.Infrastructure.Properties.Resources.resources
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.Infrastructure\obj\Debug\GermanVocabulary.Infrastructure.csproj.GenerateResource.Cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.Infrastructure\obj\Debug\GermanVocabulary.Infrastructure.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.Infrastructure\obj\Debug\GermanVocabulary.Infrastructure.pdb

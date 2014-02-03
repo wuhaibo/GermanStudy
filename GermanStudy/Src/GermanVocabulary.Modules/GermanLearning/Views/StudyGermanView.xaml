@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="GermanLearningModule.Views.StudyGermanView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"              
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="600" >
+    <UserControl.Resources>
+
+    </UserControl.Resources>
+    <Grid Background="white">
+        <Grid.Resources>
+            <ResourceDictionary>
+                <ResourceDictionary.MergedDictionaries>
+                    <ResourceDictionary Source="/GermanLearningModule;component/Theme/StyleDic.xaml"></ResourceDictionary>
+                </ResourceDictionary.MergedDictionaries>
+            </ResourceDictionary>
+        </Grid.Resources>
+        
+
+
+        <TextBlock Text="{Binding Path=StudyWord.German}" HorizontalAlignment="Left" Height="100" Margin="155,41,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="435"  FontSize="32"/>
+        <TextBlock Text="{Binding Path=StudyWord.Chinese}" HorizontalAlignment="Left" Height="100" Margin="155,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="377" FontSize="20"/>
+        <Button Content="Previous" Command="{Binding Path=GoLastCommand}" Style="{StaticResource HB_ButtonStyle}"  HorizontalAlignment="Left" Height="33" Margin="378,271,0,0" VerticalAlignment="Top" Width="84"/>
+        <Button Content="Next" Command="{Binding Path=GoNextCommand}" Style="{StaticResource HB_ButtonStyle}"  HorizontalAlignment="Left" Height="33" Margin="481,271,0,0" VerticalAlignment="Top" Width="84"/>
+        <Button Content="Start Test" Command="{Binding Path=TestThisUnitCommand}" Style="{StaticResource HB_ButtonStyle}"  HorizontalAlignment="Left" Height="33" Margin="378,328,0,0" VerticalAlignment="Top" Width="187"/>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,37 @@
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication.Infrastructure\bin\Debug\PrismApplication.Infrastructure.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication.Infrastructure\bin\Debug\PrismApplication.Infrastructure.pdb
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.Properties.Resources.resources
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.csproj.GenerateResource.Cache
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.pdb
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication.Infrastructure\bin\Debug\PrismApplication.Infrastructure.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication.Infrastructure\bin\Debug\PrismApplication.Infrastructure.pdb
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.Properties.Resources.resources
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.csproj.GenerateResource.Cache
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication.Infrastructure\bin\Debug\PrismApplication.Infrastructure.dll.config
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication.Infrastructure\bin\Debug\PrismApplication.Infrastructure.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication.Infrastructure\bin\Debug\PrismApplication.Infrastructure.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication.Infrastructure\bin\Debug\EntityFramework.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication.Infrastructure\bin\Debug\EntityFramework.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.Properties.Resources.resources
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.csproj.GenerateResource.Cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication.Infrastructure\bin\Debug\PrismApplication.Infrastructure.dll.config
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication.Infrastructure\bin\Debug\PrismApplication.Infrastructure.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication.Infrastructure\bin\Debug\PrismApplication.Infrastructure.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication.Infrastructure\bin\Debug\EntityFramework.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication.Infrastructure\bin\Debug\EntityFramework.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.Properties.Resources.resources
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.csproj.GenerateResource.Cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication.Infrastructure\obj\Debug\PrismApplication.Infrastructure.pdb

@@ -1,0 +1,29 @@
+D:\Studio\WPF\GermanWordsStudio\ConsoleApplication1\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Studio\WPF\GermanWordsStudio\ConsoleApplication1\DataAccess\bin\Debug\DataAccess.dll
+D:\Studio\WPF\GermanWordsStudio\ConsoleApplication1\DataAccess\bin\Debug\DataAccess.pdb
+D:\Studio\WPF\GermanWordsStudio\ConsoleApplication1\DataAccess\bin\Debug\EntityFramework.dll
+D:\Studio\WPF\GermanWordsStudio\ConsoleApplication1\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studio\WPF\GermanWordsStudio\ConsoleApplication1\DataAccess\bin\Debug\EntityFramework.xml
+D:\Studio\WPF\GermanWordsStudio\ConsoleApplication1\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studio\WPF\GermanWordsStudio\ConsoleApplication1\DataAccess\obj\Debug\DataAccess.dll
+D:\Studio\WPF\GermanWordsStudio\ConsoleApplication1\DataAccess\obj\Debug\DataAccess.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\DataAccess\bin\Debug\DataAccess.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\DataAccess\bin\Debug\DataAccess.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\DataAccess\bin\Debug\PrismApplication.Infrastructure.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\DataAccess\bin\Debug\PrismApplication.Infrastructure.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\DataAccess\obj\Debug\DataAccess.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\DataAccess\obj\Debug\DataAccess.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\DataAccess\bin\Debug\DataAccess.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\DataAccess\bin\Debug\DataAccess.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\DataAccess\bin\Debug\EntityFramework.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\DataAccess\bin\Debug\PrismApplication.Infrastructure.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\DataAccess\bin\Debug\PrismApplication.Infrastructure.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\DataAccess\bin\Debug\EntityFramework.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\DataAccess\obj\Debug\DataAccess.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\DataAccess\obj\Debug\DataAccess.pdb

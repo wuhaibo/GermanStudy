@@ -1,0 +1,10 @@
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.DataAccess\bin\Debug\GermanVocabulary.DataAccess.dll.config
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.DataAccess\bin\Debug\GermanVocabulary.DataAccess.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.DataAccess\bin\Debug\GermanVocabulary.DataAccess.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.DataAccess\bin\Debug\EntityFramework.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.DataAccess\bin\Debug\EntityFramework.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.DataAccess\obj\Debug\GermanVocabulary.DataAccess.csprojResolveAssemblyReference.cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.DataAccess\obj\Debug\GermanVocabulary.DataAccess.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary.DataAccess\obj\Debug\GermanVocabulary.DataAccess.pdb

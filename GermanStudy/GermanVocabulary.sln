@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{C54B841E-F430-40AB-A42B-E83F7DE186A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GermanVocabulary", "Src\GermanVocabulary\GermanVocabulary.csproj", "{AE3CF3CB-5B89-447D-B4FE-CD32FF909CCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GermanVocabulary.Infrastructure", "Src\GermanVocabulary.Infrastructure\GermanVocabulary.Infrastructure.csproj", "{48533630-7A9C-4470-B76E-805A5328DBC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GermanVocabulary.DataAccess", "Src\GermanVocabulary.DataAccess\GermanVocabulary.DataAccess.csproj", "{72BC6A1B-4A97-4487-9612-03AF5840DBC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GermanLearningModule", "Src\GermanVocabulary.Modules\GermanLearning\GermanLearningModule.csproj", "{930FEB59-BD07-444E-9626-B1EED13F34C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE3CF3CB-5B89-447D-B4FE-CD32FF909CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3CF3CB-5B89-447D-B4FE-CD32FF909CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3CF3CB-5B89-447D-B4FE-CD32FF909CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3CF3CB-5B89-447D-B4FE-CD32FF909CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48533630-7A9C-4470-B76E-805A5328DBC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48533630-7A9C-4470-B76E-805A5328DBC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48533630-7A9C-4470-B76E-805A5328DBC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48533630-7A9C-4470-B76E-805A5328DBC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72BC6A1B-4A97-4487-9612-03AF5840DBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BC6A1B-4A97-4487-9612-03AF5840DBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BC6A1B-4A97-4487-9612-03AF5840DBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BC6A1B-4A97-4487-9612-03AF5840DBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930FEB59-BD07-444E-9626-B1EED13F34C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930FEB59-BD07-444E-9626-B1EED13F34C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930FEB59-BD07-444E-9626-B1EED13F34C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930FEB59-BD07-444E-9626-B1EED13F34C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{930FEB59-BD07-444E-9626-B1EED13F34C5} = {C54B841E-F430-40AB-A42B-E83F7DE186A1}
+	EndGlobalSection
+EndGlobal

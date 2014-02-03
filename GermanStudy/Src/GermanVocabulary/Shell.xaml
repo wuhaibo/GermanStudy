@@ -1,0 +1,39 @@
+﻿<Window x:Class="GermanVocabulary.Shell" WindowStyle="ToolWindow"
+        ResizeMode="NoResize"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:prism="http://www.codeplex.com/prism"
+        xmlns:inf="clr-namespace:GermanVocabulary.Infrastructure;assembly=GermanVocabulary.Infrastructure"
+        Title="German Study" Width="800" Height="600">
+
+    <Grid Width="800" Height="600">
+        <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal" Background="#FF4DA6DE" Height="80">
+                <Image  Margin="10" Source="Resource/logo.png"  Width="50" Height ="50" Stretch="UniformToFill"/>
+                <TextBlock FontSize="36" Foreground="White" FontFamily="Arial" Margin="10,25.5,0,0" ><Run Text="German Study"/></TextBlock>
+                <StackPanel Orientation="Horizontal" Margin="310,0, 0, 0" Height="80">
+                    
+                    <ItemsControl Background="#FF4DA6DE" prism:RegionManager.RegionName="{x:Static inf:RegionNames.ToolbarRegion}">
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <StackPanel Orientation="Horizontal"/>
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+                    </ItemsControl>
+                </StackPanel>
+                
+                
+            </StackPanel>
+            <StackPanel Height="440">
+                <ContentControl Margin="50" prism:RegionManager.RegionName="{x:Static inf:RegionNames.ContentRegion}"/>
+            </StackPanel>
+            <StackPanel Background="#FF4DA6DE"  Height="50">
+                <TextBlock Height="20" FontSize="18" Foreground="White" FontFamily="Arial" Margin="10,15">Version 1.0</TextBlock>
+            </StackPanel>
+        </StackPanel>
+        
+    </Grid>
+
+
+
+</Window>

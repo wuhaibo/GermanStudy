@@ -1,0 +1,188 @@
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\PrismApplication.exe.config
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\PrismApplication.exe
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\PrismApplication.pdb
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\System.Windows.Interactivity.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\System.Windows.Interactivity.xml
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\obj\Debug\PrismApplication.csprojResolveAssemblyReference.cache
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\obj\Debug\Shell.baml
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\obj\Debug\Shell.g.cs
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\obj\Debug\App.g.cs
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\obj\Debug\PrismApplication_MarkupCompile.cache
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\obj\Debug\PrismApplication.g.resources
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\obj\Debug\PrismApplication.Properties.Resources.resources
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\obj\Debug\PrismApplication.csproj.GenerateResource.Cache
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\obj\Debug\PrismApplication.exe
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\obj\Debug\PrismApplication.pdb
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\ModuleA.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\PrismApplication.Infrastructure.dll
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\ModuleA.pdb
+C:\Juan Luis\Projects\PRISM\Prism from the beginning\PrismSolution\Src\PrismApplication\bin\Debug\PrismApplication.Infrastructure.pdb
+E:\temp\csharp\PrismSolution\Src\PrismApplication\bin\Debug\PrismApplication.exe.config
+E:\temp\csharp\PrismSolution\Src\PrismApplication\obj\Debug\PrismApplication.exe
+E:\temp\csharp\PrismSolution\Src\PrismApplication\obj\Debug\PrismApplication.pdb
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\PrismApplication.exe.config
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\obj\Debug\PrismApplication.exe
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\obj\Debug\PrismApplication.pdb
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\PrismApplication.exe
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\PrismApplication.pdb
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\ModuleA.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\PrismApplication.Infrastructure.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\System.Windows.Interactivity.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\ModuleA.pdb
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\PrismApplication.Infrastructure.pdb
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\System.Windows.Interactivity.xml
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\obj\Debug\PrismApplication.csprojResolveAssemblyReference.cache
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\obj\Debug\Shell.baml
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\obj\Debug\Shell.g.cs
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\obj\Debug\App.g.cs
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\obj\Debug\PrismApplication_MarkupCompile.cache
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\obj\Debug\PrismApplication.g.resources
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\obj\Debug\PrismApplication.Properties.Resources.resources
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismSolution\Src\PrismApplication\obj\Debug\PrismApplication.csproj.GenerateResource.Cache
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\PrismApplication.exe.config
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication.exe
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication.pdb
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\PrismApplication.exe
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\PrismApplication.pdb
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\ModuleA.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\PrismApplication.Infrastructure.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\System.Windows.Interactivity.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\ModuleA.pdb
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\PrismApplication.Infrastructure.pdb
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\System.Windows.Interactivity.xml
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication.csprojResolveAssemblyReference.cache
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\obj\Debug\Shell.baml
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\obj\Debug\Shell.g.cs
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\obj\Debug\App.g.cs
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication_MarkupCompile.cache
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication.g.resources
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication.Properties.Resources.resources
+D:\Studio\WPF\PrismTest\Channel9Example\PrismBaseProject\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication.csproj.GenerateResource.Cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\PrismApplication.exe.config
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication.csprojResolveAssemblyReference.cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\obj\Debug\Shell.baml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\obj\Debug\Shell.g.cs
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\obj\Debug\App.g.cs
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication_MarkupCompile.cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication.g.resources
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication.Properties.Resources.resources
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication.csproj.GenerateResource.Cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\PrismApplication.exe
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\PrismApplication.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\EntityFramework.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\GermanLearningModule.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\PrismApplication.Infrastructure.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\DataAccess.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\System.Windows.Interactivity.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\GermanLearningModule.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\PrismApplication.Infrastructure.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\EntityFramework.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\DataAccess.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\System.Windows.Interactivity.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication.exe
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary - 副本\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\PrismApplication.exe.config
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\PrismApplication.exe
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\PrismApplication.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\EntityFramework.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\GermanLearningModule.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\PrismApplication.Infrastructure.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\DataAccess.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\System.Windows.Interactivity.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\GermanLearningModule.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\PrismApplication.Infrastructure.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\EntityFramework.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\DataAccess.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\System.Windows.Interactivity.xml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication.csprojResolveAssemblyReference.cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\obj\Debug\Shell.baml
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\obj\Debug\Shell.g.cs
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\obj\Debug\App.g.cs
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication_MarkupCompile.cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication.g.resources
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication.Properties.Resources.resources
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication.csproj.GenerateResource.Cache
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication.exe
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\PrismBasic\Src\PrismApplication\obj\Debug\PrismApplication.pdb
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary\bin\Debug\PrismApplication.exe.config
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary\obj\Debug\PrismApplication.exe
+D:\Studio\WPF\GermanWordsStudio\GermanVocabulary\GermanVocabulary\Src\GermanVocabulary\obj\Debug\PrismApplication.pdb

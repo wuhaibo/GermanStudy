@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="GermanLearningModule.Views.MyWordListView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="200" d:DesignWidth="500">
+    <Grid>
+        <StackPanel>
+            <DataGrid IsReadOnly="True"  Height="200"  Margin="7,3,10,10" CanUserAddRows="False" Width="500"
+                      Name="dataGridMyWords"  AutoGenerateColumns="False" >
+                <DataGrid.Columns>          
+                    <DataGridTextColumn Header="German" Width="200" Binding="{Binding German, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                    <DataGridTextColumn Header="Chinese" Width="200" Binding="{Binding Chinese, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                    <DataGridTemplateColumn  Width="80">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+
+                                <Button Command="{Binding DataContext.RemoveMyWordByMyWordIdCommand, RelativeSource={RelativeSource AncestorType={x:Type DataGrid}}}" 
+                                        CommandParameter="{Binding MyWordId}"
+                                         Content="delete"></Button>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+
+    </Grid>
+</UserControl>
